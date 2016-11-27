@@ -1,0 +1,20 @@
+{
+  "name": "pakettest",
+  "version": "1.0.0",
+  "description": "Creating a package to be imported in another package.\r I want to se how it behaves when i import it in a node application in another package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edminsson/pakettest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edminsson/pakettest/issues"
+  },
+  "homepage": "https://github.com/Edminsson/pakettest#readme"
+}
