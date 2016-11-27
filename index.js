@@ -1,6 +1,8 @@
-function paket_api(medd)
+function logga(medd)
 {
     console.log(medd);
 }
 
-module.exports = paket_api;
+module.exports = {
+    logga: logga
+};
